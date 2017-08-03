@@ -12,7 +12,7 @@ The main goal is to develop both the backend and the frontend using different fr
 ### Backend
 I will implement these two backend:
 
-1. A __REST API__ server made with __Express.js__
+1. A __REST API__ server made with __Express.js__ ([Repo](https://github.com/eloquentbit/noti-server-rest))
 2. A __GraphQL__ server
 
 For storing the data I will use a __MongoDB__ database.
